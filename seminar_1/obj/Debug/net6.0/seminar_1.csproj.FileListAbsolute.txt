@@ -1,0 +1,15 @@
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/bin/Debug/net6.0/seminar_1
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/bin/Debug/net6.0/seminar_1.deps.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/bin/Debug/net6.0/seminar_1.runtimeconfig.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/bin/Debug/net6.0/seminar_1.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/bin/Debug/net6.0/seminar_1.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.csproj.AssemblyReference.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.AssemblyInfoInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.AssemblyInfo.cs
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.csproj.CoreCompileInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/refint/seminar_1.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/seminar_1.genruntimeconfig.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/seminar_1/obj/Debug/net6.0/ref/seminar_1.dll
