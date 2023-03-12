@@ -1,0 +1,15 @@
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/bin/Debug/net6.0/home_work_2
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/bin/Debug/net6.0/home_work_2.deps.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/bin/Debug/net6.0/home_work_2.runtimeconfig.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/bin/Debug/net6.0/home_work_2.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/bin/Debug/net6.0/home_work_2.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.csproj.AssemblyReference.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.AssemblyInfoInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.AssemblyInfo.cs
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.csproj.CoreCompileInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/refint/home_work_2.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/home_work_2.genruntimeconfig.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_2/obj/Debug/net6.0/ref/home_work_2.dll
