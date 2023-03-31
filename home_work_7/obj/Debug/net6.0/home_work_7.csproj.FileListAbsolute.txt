@@ -1,0 +1,15 @@
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.csproj.AssemblyReference.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.AssemblyInfoInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.AssemblyInfo.cs
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.csproj.CoreCompileInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/bin/Debug/net6.0/home_work_7
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/bin/Debug/net6.0/home_work_7.deps.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/bin/Debug/net6.0/home_work_7.runtimeconfig.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/bin/Debug/net6.0/home_work_7.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/bin/Debug/net6.0/home_work_7.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/refint/home_work_7.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/home_work_7.genruntimeconfig.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_7/obj/Debug/net6.0/ref/home_work_7.dll
