@@ -1,0 +1,15 @@
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.csproj.AssemblyReference.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.AssemblyInfoInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.AssemblyInfo.cs
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.csproj.CoreCompileInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/bin/Debug/net6.0/home_work_9
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/bin/Debug/net6.0/home_work_9.deps.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/bin/Debug/net6.0/home_work_9.runtimeconfig.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/bin/Debug/net6.0/home_work_9.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/bin/Debug/net6.0/home_work_9.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/refint/home_work_9.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/home_work_9.genruntimeconfig.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/home_work_9/obj/Debug/net6.0/ref/home_work_9.dll
